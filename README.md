@@ -49,3 +49,10 @@ PRODIGY_CS_01/
 ├── README.md
 └── .gitignore
 ```
+## Screenshots
+
+### Encryption
+![Caesar Cipher Encryption](encryption.png)
+
+### Decryption
+![Caesar Cipher Decryption](decryption.png)
