@@ -51,8 +51,6 @@ PRODIGY_CS_01/
 ```
 ## Screenshots
 
-### Encryption
-![Caesar Cipher Encryption](encryption.png)
+![Caesar Cipher Encryption](screenshots/encryption.png)
 
-### Decryption
-![Caesar Cipher Decryption](decryption.png)
+![Caesar Cipher Decryption](screenshots/decryption.png)
